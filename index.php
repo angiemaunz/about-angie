@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<! DOCTYPE hmtl>
 <hmtl>
 
 	<title>Data Design Proyect Phase 1 </title>
